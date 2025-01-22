@@ -6,7 +6,10 @@ Eu sou Fabiana Lima, Programadora Front-End, atualmente estou aprendendo e fazen
 
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
 <br>
+<img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" alt="git-logo" />
+<br>
 
 [![fabiweb stats](https://github-readme-stats.vercel.app/api?username=fabiweb)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/fabiweb/github-readme-stats)
+
