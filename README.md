@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá 👋
 
 Eu sou Fabiana Lima, Programadora Front-End, atualmente estou aprendendo e fazendo projetos com: 
 <br>
